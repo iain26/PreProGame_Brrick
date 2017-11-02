@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Draw_Phase.unity
-    guid: 00000000000000000000000000000000
+    path: Assets/Scenes/Main_Menu.unity
+    guid: 1c182f2088177684aaa53e83f3844b77
   - enabled: 1
-    path: Assets/Win.unity
-    guid: 00000000000000000000000000000000
+    path: Assets/Scenes/CharacterCreation.unity
+    guid: 576fc66cef0c1ec4b9df4dcbb57e2f95
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: f0c2e2031c829274b9578771b71f08ed
+  - enabled: 1
+    path: Assets/Scenes/Draw_Phase.unity
+    guid: 101afdb470dce184c89ee0ffa66f6343
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 96600b7ca3e21ab4fb9d9344606cac9d
