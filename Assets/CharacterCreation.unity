@@ -588,11 +588,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1267166857014216, guid: c561a22f8391ac5469df206d5a3d5b91, type: 2}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1160897329751746, guid: c561a22f8391ac5469df206d5a3d5b91, type: 2}
       propertyPath: m_Name
       value: Card (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1280178905199796, guid: c561a22f8391ac5469df206d5a3d5b91, type: 2}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c561a22f8391ac5469df206d5a3d5b91, type: 2}
